@@ -4,6 +4,8 @@ In Sunday Revise These topic that you studied during the week
 
 --GFG Problems
 1.Equalize the Towers 
+2- Merge Without Extra Space
+3- Insert Overlapping Intervals
 
 --Leetcode Problems
 1 Minimum K to Reduce Array Within Limit
@@ -12,4 +14,4 @@ In Sunday Revise These topic that you studied during the week
 --Web Devlopment Taks
 ---Aptitude Taks
 Conjunction, Preposition, Article, 
-Vocab - Starve- bhukhe marna
+Vocab - Starve- bhukhe marna, sewe 
