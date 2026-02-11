@@ -7,6 +7,9 @@ In Sunday Revise These topic that you studied during the week
 
 --Leetcode Problems
 1 Minimum K to Reduce Array Within Limit
+2- Three Sum
 
 --Web Devlopment Taks
 ---Aptitude Taks
+Conjunction, Preposition, Article, 
+Vocab - Starve- bhukhe marna
