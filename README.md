@@ -8,6 +8,7 @@ In Sunday Revise These topic that you studied during the week
 3- Insert Overlapping Intervals
 4- Count Inversions
 5- Max min Height
+6- Missing And Repeating
 
 --Leetcode Problems
 1 Minimum K to Reduce Array Within Limit
