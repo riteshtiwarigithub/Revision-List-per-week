@@ -6,10 +6,12 @@ In Sunday Revise These topic that you studied during the week
 1.Equalize the Towers 
 2- Merge Without Extra Space
 3- Insert Overlapping Intervals
+4- Count Inversions
 
 --Leetcode Problems
 1 Minimum K to Reduce Array Within Limit
 2- Three Sum
+3- Reverse Pairs
 
 --Web Devlopment Taks
 ---Aptitude Taks
