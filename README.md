@@ -9,6 +9,7 @@ In Sunday Revise These topic that you studied during the week
 4- Count Inversions
 5- Max min Height
 6- Missing And Repeating
+7- Maximum Product Subarray
 
 --Leetcode Problems
 1 Minimum K to Reduce Array Within Limit
