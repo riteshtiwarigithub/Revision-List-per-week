@@ -20,3 +20,8 @@ In Sunday Revise These topic that you studied during the week
 ---Aptitude Taks
 Conjunction, Preposition, Article, 
 Vocab - Starve- bhukhe marna, sewe 
+
+WEEK 2
+GFG Problems
+1- All numbers with specific difference
+
