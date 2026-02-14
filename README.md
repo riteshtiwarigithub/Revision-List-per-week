@@ -17,12 +17,26 @@ In Sunday Revise These topic that you studied during the week
 3- Reverse Pairs
 
 --Web Devlopment Taks
+Node js Revision
+
 ---Aptitude Taks
 Conjunction, Preposition, Article, 
 Vocab - Starve- bhukhe marna, sewe 
 
 WEEK 2
-GFG Problems
+--Apptitude
+ Coding Decoding , Data Arrangement
+
+ Web Devlopment
+ Backend
+ 
+--Leetcode Problems
+1- contest Q2. Number of Prefix Connected Groups
+   contest Q1. Weighted Word Mapping
+33. Search in Rotated Sorted Array 
+   
+--GFG Problems
 1- All numbers with specific difference
 2- Largest subarray with 0 sum 
+3- Longest Subarray with Sum K
 
