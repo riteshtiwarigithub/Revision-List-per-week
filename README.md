@@ -39,4 +39,6 @@ WEEK 2
 1- All numbers with specific difference
 2- Largest subarray with 0 sum 
 3- Longest Subarray with Sum K
+4 -Chocolate Distribution Problem
+
 
