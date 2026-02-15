@@ -25,7 +25,7 @@ Vocab - Starve- bhukhe marna, sewe
 
 WEEK 2
 --Apptitude
- Coding Decoding , Data Arrangement
+ Coding Decoding , Data Arrangement, Modals, subjectVerb agrrement Practice, 
 
  Web Devlopment
  Backend
@@ -40,5 +40,6 @@ WEEK 2
 2- Largest subarray with 0 sum 
 3- Longest Subarray with Sum K
 4 -Chocolate Distribution Problem
+
 
 
