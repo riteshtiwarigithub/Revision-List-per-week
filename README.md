@@ -34,6 +34,7 @@ WEEK 2
 1- contest Q2. Number of Prefix Connected Groups
    contest Q1. Weighted Word Mapping
 33. Search in Rotated Sorted Array (Imp)
+190. Reverse Bits
    
 --GFG Problems
 1- All numbers with specific difference
