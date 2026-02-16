@@ -25,7 +25,7 @@ Vocab - Starve- bhukhe marna, sewe
 
 WEEK 2
 --Apptitude
- Coding Decoding , Data Arrangement, Modals, subjectVerb agrrement Practice, 
+ Coding Decoding , Data Arrangement, Modals, subjectVerb agrrement Practice, Sentence Rearrangment Practice 
 
  Web Devlopment
  Backend
@@ -33,7 +33,7 @@ WEEK 2
 --Leetcode Problems
 1- contest Q2. Number of Prefix Connected Groups
    contest Q1. Weighted Word Mapping
-33. Search in Rotated Sorted Array 
+33. Search in Rotated Sorted Array (Imp)
    
 --GFG Problems
 1- All numbers with specific difference
