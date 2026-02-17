@@ -26,6 +26,7 @@ Vocab - Starve- bhukhe marna, sewe
 WEEK 2
 --Apptitude
  Coding Decoding , Data Arrangement, Modals, subjectVerb agrrement Practice, Sentence Rearrangment Practice 
+ voacb - exaggerates - बढ़ा-चढ़ाकर बताया गया 
 
  Web Devlopment
  Backend
