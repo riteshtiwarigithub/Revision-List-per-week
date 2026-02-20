@@ -25,7 +25,7 @@ Vocab - Starve- bhukhe marna, sewe
 
 WEEK 2
 --Apptitude
- Coding Decoding , Data Arrangement, Modals, subjectVerb agrrement Practice, Sentence Rearrangment Practice 
+ Coding Decoding , Data Arrangement, Modals, subjectVerb agrrement Practice, Sentence Rearrangment Practice , age problems, partenships, data arrangement mental ability
  voacb - exaggerates - बढ़ा-चढ़ाकर बताया गया 
 
  Web Devlopment
@@ -43,6 +43,7 @@ WEEK 2
 3- Longest Subarray with Sum K
 4 -Chocolate Distribution Problem
 5-Maximum number of overlapping Intervals
+6 -Form the Largest Number
 
 
 
