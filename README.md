@@ -45,6 +45,10 @@ WEEK 2
 5-Maximum number of overlapping Intervals
 6 -Form the Largest Number
 
+WEEK 3
 
+--GFG Problems
+1 Count Subarrays with given XOR
 
-
+--Leetcode Problems
+1- 3843. First Element with Unique Frequency
