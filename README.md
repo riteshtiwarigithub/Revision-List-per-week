@@ -47,9 +47,14 @@ WEEK 2
 
 WEEK 3
 
+--Apptitude 
+Data Interpretation, tcs ninza numerical ability
+
 --GFG Problems
 1 Count Subarrays with given XOR
 2 -Longest Span in two Binary Arrays
+3 -Add 1 to a Linked List Number
 
 --Leetcode Problems
 1- 3843. First Element with Unique Frequency
+2 -1022. Sum of Root To Leaf Binary Numbers
