@@ -49,6 +49,7 @@ WEEK 3
 
 --GFG Problems
 1 Count Subarrays with given XOR
+2 -Longest Span in two Binary Arrays
 
 --Leetcode Problems
 1- 3843. First Element with Unique Frequency
