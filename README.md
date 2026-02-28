@@ -54,6 +54,9 @@ Data Interpretation, tcs ninza numerical ability
 1 Count Subarrays with given XOR
 2 -Longest Span in two Binary Arrays
 3 -Add 1 to a Linked List Number
+4 -Find the closest pair from two arrays
+5 -Number of submatrix have sum X
+6 -Isomorphic Strings
 
 --Leetcode Problems
 1- 3843. First Element with Unique Frequency
