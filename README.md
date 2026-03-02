@@ -57,6 +57,7 @@ Data Interpretation, tcs ninza numerical ability
 4 -Find the closest pair from two arrays
 5 -Number of submatrix have sum X
 6 -Isomorphic Strings
+7 -Trapping Rain Water
 
 --Leetcode Problems
 1- 3843. First Element with Unique Frequency
