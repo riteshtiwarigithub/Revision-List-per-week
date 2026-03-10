@@ -62,3 +62,8 @@ Data Interpretation, tcs ninza numerical ability
 --Leetcode Problems
 1- 3843. First Element with Unique Frequency
 2 -1022. Sum of Root To Leaf Binary Numbers
+
+WEEK 4
+
+--GFG
+1 -Subarrays with First Element Minimum
