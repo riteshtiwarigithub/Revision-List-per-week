@@ -67,3 +67,5 @@ WEEK 4
 
 --GFG
 1 -Subarrays with First Element Minimum
+2 -Sum of subarray minimums
+
