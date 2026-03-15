@@ -69,3 +69,6 @@ WEEK 4
 1 -Subarrays with First Element Minimum
 2 -Sum of subarray minimums
 
+--Leetcode
+3868. Minimum Cost to Equalize Arrays Using Swaps
+
