@@ -72,3 +72,12 @@ WEEK 4
 --Leetcode
 3868. Minimum Cost to Equalize Arrays Using Swaps
 
+WEEK 5
+
+--GFG
+1 -Check if there exists a subsequence with sum K
+2 -Length of Longest Cycle in a Graph
+3 -Rotten Oranges
+4 -Burning Tree
+5 -Distribute Candies
+
