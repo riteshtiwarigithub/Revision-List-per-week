@@ -82,4 +82,8 @@ WEEK 5
 5 -Distribute Candies
 6 -Minimum height roots  (Graph)
 
+WEEK 6
+
+--GFG
+1 Stack using Linked List (Striver)
 
