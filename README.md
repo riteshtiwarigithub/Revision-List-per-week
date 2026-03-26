@@ -86,4 +86,6 @@ WEEK 6
 
 --GFG
 1 Stack using Linked List (Striver)
+2 -Queue using Linked List (Striver)
+
 
