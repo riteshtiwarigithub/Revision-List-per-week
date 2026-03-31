@@ -88,4 +88,8 @@ WEEK 6
 1 Stack using Linked List (Striver)
 2 -Queue using Linked List (Striver)
 
+TCS NQT Code
+1 -Equalize an array in minimum operations  
+
+
 
