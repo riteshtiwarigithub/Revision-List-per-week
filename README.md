@@ -90,6 +90,8 @@ WEEK 6
 
 TCS NQT Code
 1 -Equalize an array in minimum operations  
+2 -Minimum Jumps, jump game
+3 - spiral matrix
 
 
 
