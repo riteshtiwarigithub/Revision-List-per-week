@@ -95,3 +95,15 @@ TCS NQT Code
 
 
 
+AUGUST MONTH ---------------
+WEEK -3 16aug
+Sunday - {
+    Revise Javascript Part1 closures in deep, 
+    DSA - Peak element, Min Product Subset, Mountain Array
+    Apptitude - Profit & loss
+    English - Revise Concepts
+    Core CS - CN
+}
+
+
+
