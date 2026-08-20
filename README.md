@@ -105,5 +105,15 @@ Sunday - {
     Core CS - CN
 }
 
+tuesday -  {
+    Revise Javascript Part1 arrays in deep, 
+    DSA - 3471. Find the Largest Almost Missing Integer, 2461. Maximum Sum of Distinct Subarrays With Length K
+    Apptitude - Profit & loss part 4
+    English - Revise Concepts, polity 1
+    Core CS - CN, Network Security
+}
+
+
+
 
 
