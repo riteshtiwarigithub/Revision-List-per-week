@@ -107,10 +107,19 @@ Sunday - {
 
 tuesday -  {
     Revise Javascript Part1 arrays in deep, 
-    DSA - 3471. Find the Largest Almost Missing Integer, 2461. Maximum Sum of Distinct Subarrays With Length K
+    DSA - 3471. Find the Largest Almost Missing Integer(Go through), 2461. Maximum Sum of Distinct Subarrays With Length K
     Apptitude - Profit & loss part 4
     English - Revise Concepts, polity 1
     Core CS - CN, Network Security
+}
+
+wednesday -  {
+    Revise Javascript Part1 objects in deep, 
+    DSA -Triplets with Sum in Range(Good Problem), 1386. Cinema Seat Allocation (Must Visit)
+    Apptitude - SI part 2
+    English - Revise english 16
+    Core CS - CN, Network Security
+    Project
 }
 
 
