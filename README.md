@@ -122,7 +122,14 @@ wednesday -  {
     Project
 }
 
-
+Thursday -  {
+    Revise JavaScript Part2 DOM, 
+    DSA - Sliding window revise,
+    Aptitude - CI part 1
+    English - Revise english 17
+    Core CS - Network Security
+    Project
+}
 
 
 
