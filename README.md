@@ -131,5 +131,16 @@ Thursday -  {
     Project
 }
 
+Friday -  {
+    Revise JavaScript Part2 DOM, 
+    DSA - "",
+    Aptitude - CI part 2
+    English - Revise english 18
+    Polity - lect 2 half
+    Core CS - ""
+    Project - ""
+}
+
+
 
 
